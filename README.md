@@ -7,7 +7,7 @@
 
 >pkg install git -y
 
->git clone https://github.com/John-kener/Evil-Eye-Banner
+>git clone https://github.com/John-Kenner/Evil-Eye-Banner
 
 >cd Evil-Eye-Banner
 
